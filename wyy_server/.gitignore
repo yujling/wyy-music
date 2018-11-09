@@ -1,0 +1,4 @@
+.vscode/
+style/
+node_modules/
+*sql

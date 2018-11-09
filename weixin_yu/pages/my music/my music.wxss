@@ -1,0 +1,13 @@
+/* pages/my music/my music.wxss */
+.weui-cell__bd{
+    font-size:16px;
+}
+.my_list{
+    background:#eee;
+    font-size:16px;
+    padding-left:50rpx;
+}
+.cell_size{
+    font-size:15px;
+    color:rgb(100, 96, 96);
+}
