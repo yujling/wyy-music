@@ -105,3 +105,9 @@
 .line{
   border-top:3px solid #EEEEF3;
 }
+
+/*列表下面的字体*/
+.cell_size{
+    font-size:15px;
+    color:rgb(100, 96, 96);
+}

@@ -1,0 +1,18 @@
+  <view class="weui-cells weui-cells_after-title">
+            <navigator url="" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">浪漫爱
+                  <view class="cell_size">江语晨</view>
+                </view>
+                <view class="weui-cell__ft ">
+                   <image src="../../assets/images/pause.png" class="music_height"></image>
+                </view>
+            </navigator>
+            <navigator url="" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">走在冷风中
+                  <view class="cell_size">江语晨</view>
+                </view>
+                <view class="weui-cell__ft ">
+                     <image src="../../assets/images/pause.png" class="music_height"></image>
+                 </view>
+            </navigator>
+</view>

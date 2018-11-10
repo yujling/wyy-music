@@ -1,0 +1,5 @@
+/* pages/musicList/musicList.wxss */
+.music_height{
+    height:50rpx;
+    width:50rpx;
+    }

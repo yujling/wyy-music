@@ -1,8 +1,8 @@
 //1:加载相应模块
 const express = require("express");
 const mysql = require("mysql");
-const pool = require("./pool");
 const indexFind=require("./routes/indexFind")
+const music=require("./routes/music")
 //2:创建express服务器
 var app = express();
 app.use(express.static(__dirname+"/public"));
@@ -11,6 +11,7 @@ app.listen(3000);
 app.use(express.static(__dirname+"/public"));
 
 app.use('/indexFind',indexFind)
+app.use('/music',music)
 
 
 

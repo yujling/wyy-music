@@ -13,7 +13,8 @@
     "pages/news/news",
     "pages/my music/my music",
     "pages/myAcount/myAcount",
-    "pages/playing/playing"
+    "pages/playing/playing",
+    "pages/musicList/musicList"
   ],
   "window": {
     "navigationBarTextStyle": "#fff",
